@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*.svg
+Allow: https://vivohome.info/
+Sitemap: https://vivohome.info/sitemap.xml
